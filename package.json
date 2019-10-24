@@ -1,0 +1,10 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ChaituKNag/react-playground.git",
+  "author": "Naga Chaitanya Konada <chaitu.k.nag@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
