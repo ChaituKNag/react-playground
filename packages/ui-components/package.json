@@ -1,6 +1,6 @@
 {
   "name": "@knc/ui-components",
-  "version": "1.0.1beta",
+  "version": "1.0.1-beta01",
   "main": "dist/index.js",
   "scripts": {
     "watch": "rollup --config --watch"
